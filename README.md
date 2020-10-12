@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/gallery/qiCdG9Z' title='Video Walkthrough' width='330' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/qiCdG9Z"  ><a href="//imgur.com/a/qiCdG9Z">Tip Calculator</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
